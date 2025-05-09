@@ -17,7 +17,7 @@ createRoot(document.getElementById('root')).render(
     <About/>
     <Price/>
     <Blog/>
-    {/* <Testimonial/> */}
+    <Testimonial/>
     <Footer/>
     <Reser/>
   </StrictMode>,
