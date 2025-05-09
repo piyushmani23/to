@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    justify-content: space-between; 
+    background-color: transparent;
+    padding: 1.5rem;
+    
+}
+.header h1{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 2rem;
+
+}
+.header h1:hover{
+    color: white;
+    cursor: pointer;
+
+}
+.header button{
+    border-radius: 50%;
+    background-color: white;
+    width: 3rem;
+    font-weight: bolder;
+
+}
+.header button:hover{
+    border-radius: 50%;
+    background-color: white;
+    width: 3rem;
+    font-weight: bolder;
+    cursor:pointer;
+
+
+}

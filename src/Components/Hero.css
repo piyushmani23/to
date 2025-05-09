@@ -1,0 +1,54 @@
+.main_hero{
+    width: 100vw;
+    height: 44rem;
+    background-image: url("../assets/slider-bg.jpg");
+    background-size: cover;
+    background-size: cover;
+}
+.sections_hero{
+    width: 100%;
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+}
+.section_hero{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5rem;
+    padding-left: 5rem;
+}
+
+.section_hero h1{
+    color: white;
+    font-size: 3.5rem;
+    padding-bottom: 1rem;
+    font-weight:bolder;
+}
+.section_hero p{
+    color: white;
+    font-size: 1.3rem;
+    padding-bottom: 1.5rem;
+}
+.section_hero button{
+    width: 12rem;
+    height: 3rem;
+    font-size: 1.2rem;
+    background: none;
+    color: #fd9c63;
+    border: 1px solid #fd9c63;
+    border-radius: 0.2rem;
+    cursor: pointer;
+}
+.section_hero button:hover{
+    width: 12rem;
+    height: 3rem;
+    font-size: 1.2rem;
+    background: none;
+    background-color: #fd9c63;
+    color: white;
+    transition: background-color 0.2s ease-in;
+    border-radius: 0.2rem;
+    cursor: pointer;
+}
+ 

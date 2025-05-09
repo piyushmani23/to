@@ -1,0 +1,15 @@
+.reserved{
+    display: flex;
+    background: white;
+    padding: 1rem;
+}
+.content{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.reserved h1{
+    font-size: 1.3rem;
+    color: #fd9c63;
+}
